@@ -1,0 +1,29 @@
+{"login":[
+              {
+                            "name" : "abhay", "password" : "abc@123"
+              }
+],
+  "restaurant": [
+    {
+      "name": "Mc Donald",
+      "email": "mc@test.com",
+      "rating": "4.2",
+      "address": "India",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "BQ Nation",
+      "address": "jaipur",
+      "rating": "4.5",
+      "email": "bq@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Mr. Beans",
+      "address": "Jaipur",
+      "rating": "4.5",
+      "email": "beans@test.com"
+    }
+  ]
+}
